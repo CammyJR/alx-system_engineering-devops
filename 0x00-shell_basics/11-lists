@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la /0x00-current_working_directory .. /boot
+ls -la /alx-system_software-devops/0x00-shell_basics .. /boot
